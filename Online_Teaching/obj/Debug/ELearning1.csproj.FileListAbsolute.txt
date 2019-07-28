@@ -1,0 +1,4 @@
+E:\ELearning1\ELearning1\bin\ELearning1.dll
+E:\ELearning1\ELearning1\bin\ELearning1.pdb
+E:\ELearning1\ELearning1\obj\Debug\ELearning1.dll
+E:\ELearning1\ELearning1\obj\Debug\ELearning1.pdb
